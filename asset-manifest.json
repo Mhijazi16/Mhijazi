@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mhijazi/static/css/main.75dbfd0c.css",
+    "main.js": "/Mhijazi/static/js/main.ef911102.js",
+    "static/media/purple.png": "/Mhijazi/static/media/purple.e85fefc6620086970c89.png",
+    "static/media/Hacking2.png": "/Mhijazi/static/media/Hacking2.64e911a11470cf3f1a05.png",
+    "static/media/MohammedHijaziResume.pdf": "/Mhijazi/static/media/MohammedHijaziResume.2616c41eb66207f06fca.pdf",
+    "static/media/github.png": "/Mhijazi/static/media/github.5e183ae01daad30c9c5f.png",
+    "static/media/python.png": "/Mhijazi/static/media/python.d66fbf116117411739ef.png",
+    "static/media/Hacking.png": "/Mhijazi/static/media/Hacking.44ae513d0e73cfff8599.png",
+    "static/media/pattern.png": "/Mhijazi/static/media/pattern.e80f7c7661a4411953a6.png",
+    "static/media/ProblemSolving.png": "/Mhijazi/static/media/ProblemSolving.10229b6ac58323f69682.png",
+    "static/media/upwork.png": "/Mhijazi/static/media/upwork.9ce7683b6d669aeb3871.png",
+    "index.html": "/Mhijazi/index.html",
+    "main.75dbfd0c.css.map": "/Mhijazi/static/css/main.75dbfd0c.css.map",
+    "main.ef911102.js.map": "/Mhijazi/static/js/main.ef911102.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75dbfd0c.css",
+    "static/js/main.ef911102.js"
+  ]
+}
